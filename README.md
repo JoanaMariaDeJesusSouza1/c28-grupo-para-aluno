@@ -1,1 +1,3 @@
-# c28-grupo-para-aluno
+# PiratesInvasionStage-6
+
+adding sounds and score
